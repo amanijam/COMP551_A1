@@ -1,4 +1,5 @@
 # COMP551_A1
+Applied Machine Learning - Linear Regression and Logistic Regression Models
 
 ## Project Description
 
